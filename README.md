@@ -1,5 +1,5 @@
-# Convo buddy
-An AI conversational buddy. Voice to text, process by GPT then response to voice friend
+# Convo buddy 🧔
+An AI conversational buddy. A voice to text, GPT brain and response to voice friend.
 
 ## Requirements
 
