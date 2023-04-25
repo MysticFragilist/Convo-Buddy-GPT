@@ -1,0 +1,7 @@
+cache/**
+
+config.cfg
+
+__pycache__/
+
+recasepunc/
